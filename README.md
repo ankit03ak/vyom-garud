@@ -51,7 +51,6 @@ npm install
 npm run dev
 
 
-<<<<<<< HEAD
 
 ## Screenshots
 ![SCREENSHOT](./client/src/assets/pics/pic1.png)
@@ -60,5 +59,3 @@ npm run dev
 ![SCREENSHOT](./client/src/assets/pics/pic4.png)
 ![SCREENSHOT](./client/src/assets/pics/pic5.png)
 
-=======
->>>>>>> a422e73fd64a886b45705806872ddfff832eba5b
