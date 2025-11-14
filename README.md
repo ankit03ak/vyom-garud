@@ -51,3 +51,11 @@ npm install
 npm run dev
 
 
+
+## Screenshots
+![SCREENSHOT](./client/src/assets/pics/pic1.png)
+![SCREENSHOT](./client/src/assets/pics/pic2.png)
+![SCREENSHOT](./client/src/assets/pics/pic3.png)
+![SCREENSHOT](./client/src/assets/pics/pic4.png)
+![SCREENSHOT](./client/src/assets/pics/pic5.png)
+
